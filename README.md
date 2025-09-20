@@ -1,4 +1,4 @@
-# Time is length in self-similar logarithmic aging of physically crosslinked polymer networks
+# Dataset: Time is length in self-similar logarithmic aging of physically crosslinked polymer networks
 
 Article: [Phys. Rev. Lett., *XX* (2025) in press](https://doi.org/10.1103/1slf-41nm)  (DOI 10.1103/1slf-41nm)
 
