@@ -1,6 +1,6 @@
 # Time is length in self-similar logarithmic aging of physically crosslinked polymer networks
 
-Article: [Journal, *XX* (XXX) XXX](https://doi.org/XXX)  (Open Access, DOI XXX)
+Article: [Phys. Rev. Lett., *XX* (2025) in press](https://doi.org/10.1103/1slf-41nm)  (DOI 10.1103/1slf-41nm)
 
 Authors: [Patrick Ilg](https://www.reading.ac.uk/maths-and-stats/staff/patrick-ilg), [Clarisse Luap](https://www.scopus.com/authid/detail.uri?authorId=6507066994&origin=resultslist), [Martin Kröger](https://www.complexfluids.ethz.ch/)
 
